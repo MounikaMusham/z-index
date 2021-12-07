@@ -1,0 +1,33 @@
+
+img{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    margin: 50px;
+    
+}
+.one{
+    top:10px;
+    left: 10px;
+    border: brown solid 3px;
+    z-index: -1;
+}
+.two{
+    top:50px;
+    left: 50px;
+    border: rgb(28, 204, 12) solid 3px;
+    z-index: 0;
+}
+.three{
+    top:100px;
+    left: 100px;
+    border: rgb(16, 141, 190) solid 3px;
+    z-index: -1;
+}
+.banner{
+    margin: 20px;
+}
+h1{
+    text-align: center;
+    color: brown;
+}
